@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakmalapaka" alt="deepakmalapaka" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/malapaka deepak" target="blank"><img src="https://img.shields.io/twitter/follow/malapaka deepak?logo=twitter&style=for-the-badge" alt="malapaka deepak" /></a> </p>
+<p align="left"> <a href="https://twitter.com/malapaka deepak" target="blank"><img src="https://x.com/DeepakMalapaka?t=OVWhbpru8SrqD-qZyNIPBg&s=09" alt="malapaka deepak" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
