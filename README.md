@@ -33,24 +33,40 @@
 ###
 
 <div align="center">
-  <!-- Top Languages -->
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakmalapaka&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&border_radius=5" 
-    height="220" 
-    alt="Top Languages" 
-  />
-</p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+    <!-- Top Languages -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakmalapaka&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&border_radius=5" 
+      height="220" 
+      alt="Top Languages" 
+      style="margin-bottom: 20px;"
+    />
+    <!-- GitHub Stats -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=deepakmalapaka&show_icons=true&locale=en&theme=dark&hide_border=false&border_radius=5" 
+      height="220" 
+      alt="GitHub Stats" 
+      style="margin-bottom: 20px;"
+    />
+    <!-- Streak Graph -->
+    <img 
+      src="https://streak-stats.demolab.com?user=deepakmalapaka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
+      height="220" 
+      alt="Streak Graph" 
+      style="margin-bottom: 20px;"
+    />
 
-<!-- GitHub Stats -->
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=deepakmalapaka&show_icons=true&locale=en&theme=dark&hide_border=false&border_radius=5" 
-    height="220" 
-    alt="GitHub Stats" 
-  />
-</p>
-  <p><img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></p>
+  </div>
 </div>
 
+</div>
+
+
 ###
+<h3 align="left">🕹️ Contribution Graph:</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepakMalapaka/DeepakMalapaka/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepakMalapaka/DeepakMalapaka/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DeepakMalapaka/DeepakMalapaka/output/github-contribution-grid-snake.svg" />
+</picture>
