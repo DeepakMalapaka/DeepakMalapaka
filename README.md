@@ -54,6 +54,3 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/DeepakMalapaka/DeepakMalapaka/output/snake.svg" alt="Snake animation" />
-
-###
