@@ -32,29 +32,66 @@
 
 ###
 
-<div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <!-- Top Languages -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakmalapaka&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&border_radius=5" 
-      width="500" 
-      alt="Top Languages" 
-    />
-    <!-- GitHub Stats -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=deepakmalapaka&show_icons=true&locale=en&theme=dark&hide_border=false&border_radius=5" 
-      width="500" 
-      alt="GitHub Stats" 
-    />
-    <!-- Streak Graph -->
-    <img 
-      src="https://streak-stats.demolab.com?user=deepakmalapaka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
-      width="500" 
-      alt="Streak Graph" 
-    />
-
+<div align="left">
+  <div style="
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    justify-content: center;
+    ">
+    <!-- Left box: Languages -->
+    <div style="
+      background: #161b22;
+      border-radius: 16px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.16);
+      height: 260px;
+      width: 410px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    ">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakmalapaka&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&border_radius=10"
+           style="max-height: 220px; border-radius:10px;">
+    </div>
+    <!-- Right box: Stats -->
+    <div style="
+      background: #161b22;
+      border-radius: 16px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.16);
+      height: 260px;
+      width: 410px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    ">
+      <img src="https://github-readme-stats.vercel.app/api?username=deepakmalapaka&show_icons=true&locale=en&theme=dark&hide_border=false&border_radius=10"
+           style="max-height: 220px; border-radius:10px;">
+    </div>
+  </div>
+  <div style="
+    margin-top: 24px;
+    display: flex;
+    justify-content: center;
+    ">
+    <!-- Bottom box: Streak Graph -->
+    <div style="
+      background: #161b22;
+      border-radius: 16px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.16);
+      height: 130px;
+      width: 850px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    ">
+      <img src="https://streak-stats.demolab.com?user=deepakmalapaka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10&order=3"
+           style="max-height: 100px; border-radius:10px;">
+    </div>
   </div>
 </div>
+
+
+
 
 
 
