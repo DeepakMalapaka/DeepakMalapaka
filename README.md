@@ -33,31 +33,33 @@
 ###
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <!-- Top Languages -->
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakmalapaka&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&border_radius=5" 
-      height="220" 
+      width="500" 
       alt="Top Languages" 
-      style="margin-bottom: 20px;"
     />
     <!-- GitHub Stats -->
     <img 
       src="https://github-readme-stats.vercel.app/api?username=deepakmalapaka&show_icons=true&locale=en&theme=dark&hide_border=false&border_radius=5" 
-      height="220" 
+      width="500" 
       alt="GitHub Stats" 
-      style="margin-bottom: 20px;"
     />
     <!-- Streak Graph -->
     <img 
       src="https://streak-stats.demolab.com?user=deepakmalapaka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
-      height="220" 
+      width="500" 
       alt="Streak Graph" 
-      style="margin-bottom: 20px;"
     />
 
   </div>
 </div>
+
+
+
+
+
 
 </div>
 
