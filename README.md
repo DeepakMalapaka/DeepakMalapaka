@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Malapaka</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <!-- <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> -->
+  <img height="250" src="./assets/Boy.webp"  />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakmalapaka&label=Profile%20views&color=0e75b6&style=flat" alt="deepakmalapaka" /> </p>
 
