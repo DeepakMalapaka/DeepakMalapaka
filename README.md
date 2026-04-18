@@ -5,10 +5,6 @@
   <img height="250" src="./assets/Boy.webp" alt="Coding Boy Illustration" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepakmalapaka&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
 
