@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 💻 I’m currently focused on mastering the **MERN Stack**.
+- 💻 I'm currently focused on mastering the **MERN Stack**.
 - 🛠️ Building modern, responsive, and user-centric web applications.
 - 💬 Ask me about **React, Node.js, and Tailwind CSS**.
 - 📫 Reach me at: [deepakmalapakadvns@gmail.com](mailto:deepakmalapakadvns@gmail.com)
@@ -59,12 +59,12 @@
 ### 🔥 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakmalapaka&show_icons=true&locale=en&theme=radical&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakmalapaka&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+  <img width=400 src='https://github-readme-stats.vercel.app/api?username=DeepakMalapaka&theme=github_dark&show_icons=true&hide_border=true&count_private=true' alt="GitHub Stats" />
+  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs?username=DeepakMalapaka&theme=github_dark&show_icons=true&hide_border=true&layout=compact&hide=cmake,dart' alt="Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=deepakmalapaka&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=DeepakMalapaka&theme=github_dark&hide_border=true' alt="GitHub Streak" />
 </div>
 
 ---
