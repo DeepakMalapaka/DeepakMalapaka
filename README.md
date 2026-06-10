@@ -58,13 +58,11 @@
 ### 🔥 My GitHub Stats
 
 <div align="center">
-  <img width=400 src='https://github-readme-stats.vercel.app/api?username=DeepakMalapaka&theme=github_dark&show_icons=true&hide_border=true&count_private=true' alt="GitHub Stats" />
+  <img width=400 src='https://github-readme-stats.vercel.app/api?user=DeepakMalapaka&username=DeepakMalapaka&theme=github_dark&show_icons=true&hide_border=true&count_private=true' alt="GitHub Stats" />
   <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs?username=DeepakMalapaka&theme=github_dark&show_icons=true&hide_border=true&layout=compact&hide=cmake,dart' alt="Top Langs" />
-</div>
-
-<div align="center">
   <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=DeepakMalapaka&theme=github_dark&hide_border=true' alt="GitHub Streak" />
 </div>
+
 
 ---
 
