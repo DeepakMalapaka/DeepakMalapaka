@@ -55,7 +55,6 @@
 ---
 
 
-
 ### 🔥 My GitHub Stats
 
 <div align="center">
@@ -66,7 +65,6 @@
 <div align="center">
   <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=DeepakMalapaka&theme=github_dark&hide_border=true' alt="GitHub Streak" />
 </div>
-
 ---
 
 ### 🕹️ Contribution Activity
